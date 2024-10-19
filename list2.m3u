@@ -765,6 +765,9 @@ https://cdn-2.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 #EXTINF:-1 tvg-id="Disc. Home & Health HD" tvg-name="Disc. Home & Health HD" tvg-logo="https://imgur.com/VSezlWv.png" group-title="Canais | VARIEDADES",Disc. Home & Health  HD
 https://cdn-2.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
  
+#EXTINF:-1 tvg-id="Discovery ChanneHDl" tvg-name="Discovery Channel Embed site" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel Embed site2
+https://abc.embedmax.site/discoverychannel/video.m3u8
+
 #EXTINF:-1 tvg-id="Discovery ChanneHDl" tvg-name="Discovery Channel HD" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel SD
 https://cdn-2.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v1a1/mono.m3u8
 
