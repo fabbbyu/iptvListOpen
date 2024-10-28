@@ -42,15 +42,11 @@ https://cr7v.short.gy/25mensais/AF2/Whats7591634025.m3u8
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP SD
 https://stream1.freetv.fun/record-sp-2-1.m3u8
 
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP HD
-https://cdn-2.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RJ HD
 http://186.226.215.132:80/carlos123/carlos123/56
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV Conquista HD
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ManoTV
-
 
 ############################################################################ Canais | BAND TV
 
@@ -108,9 +104,6 @@ https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!"  tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais | ABERTO",RedeTV! 
 https://cdn2.easy.tv.br/redetv/index.m3u8
 
-#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!"  tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais | ABERTO",RedeTV! PR HD
-https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
-
 #EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!" tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais | ABERTO",RedeTV! PI SD
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w157393531.m3u8?ManoTV
 
@@ -122,15 +115,6 @@ https://a.cdni.live/pedro1426/pedro1426/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/xtSdQsu.png" group-title="Canais | ABERTO",TV Diário FHD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/548
-
-#EXTINF:-1 tvg-id="TVE" tvg-logo="https://i.imgur.com/qoQEi7z.png" group-title="Canais | ABERTO",TVE Bahia YT
-https://ythls.armelin.one/channel/UC3croy4Mmkr_CpssQihMytw.m3u8
-
-#EXTINF:-1 tvg-id="TVE" tvg-logo="https://i.imgur.com/qoQEi7z.png" group-title="Canais | ABERTO",TVE Bahia HD
-http://rtmp.irdeb.ba.gov.br/stream/hls/tvehd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qoQEi7z.png" group-title="Canais | ABERTO",TVE Bahia FHD
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="Canais | ABERTO",TV Gazeta HD
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8?ManoTV
@@ -641,9 +625,6 @@ https://cdn-2.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN SD
 https://cdn-2.nxplay.com.br/AXN_TK/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN HD 
-https://cdn-2.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | FILMES E SERIES",Paramount Network HD
 http://dzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/695.m3u8
 
@@ -667,15 +648,11 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/295
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | FILMES E SERIES",Telecine Pipoca HD
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | FILMES E SERIES",Telecine Pipoca FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/304
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="Canais | FILMES E SERIES",Telecine Premium HD
 http://dzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/633.m3u8
-
-#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="Canais | FILMES E SERIES",Telecine Premium FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/307
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | FILMES E SERIES",Telecine Touch FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/310
