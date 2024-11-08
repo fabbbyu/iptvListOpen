@@ -1561,11 +1561,8 @@ https://vdo1.audiostream.com.br:3010/live/soutvlive.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTO",TV BRASIL
 https://tvbrasil-stream.ebc.com.br/index.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XqAcHMg.png" group-title="Canais | ABERTO",Rede Brasil 
-https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XqAcHMg.png" group-title="Canais | ABERTO",Rede Brasil HD
-https://cdn2.easy.tv.br/redebrasil/index.m3u8
+https://video01.logicahost.com.br/redebrasil02/redebrasil02/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Po8jJt4.png" group-title="Canais | ABERTO",TBO HD (Rede Brasil)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?ManoTV
@@ -1577,19 +1574,19 @@ https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1407789719.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/p7gJt8P.png" group-title="Canais | ABERTO",TERRA VIVA HD
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/81607.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/isJAvqM.png" group-title="Canais | ABERTO",Canal do Boi
-https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/662566507635863535910662.m3u8
+https://aovivo3.equipea.com.br:5443/aovivort/streams/7JqTuqkq5OwZ89cw1724977438534.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ebNRqmy.png" group-title="Canais | ABERTO",Agro Canal
-https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/550918304441506960454875.m3u8
+https://aovivo.equipea.com.br:5443/aovivort/streams/RmvrJTkqJYoGD6gD1725309082818.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/WjWjQ2A.png" group-title="Canais | ABERTO",Agro Brasil 
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NY4GvIC.png" group-title="Canais | ABERTO",AgroMais HD
-https://cdn-2.nxplay.com.br/AGROMAIS_HD_TK/tracks-v1a1/mono.m3u8
+https://cdn-2.nxplay.com.br/AGROMAIS_HD_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NY4GvIC.png" group-title="Canais | ABERTO",AgroMais HD [Alter]
 http://187.95.95.243/AgroMais-HD/video.m3u8
@@ -1685,7 +1682,10 @@ https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
 https://cdn-2.nxplay.com.br/CANCAO_NOVA_TK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="Canais | ABERTO",Canção Nova HD
-https://cdn2.easy.tv.br/cancaonova/index.m3u8
+https://cdn-2.nxplay.com.br/CANCAO_NOVA_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="Canais | ABERTO",Canção Nova PE
+https://tv.vidatel.com.br/hls/tvcancaonovahd/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QZhhn6FN9to/UlFrsL3Tt0I/AAAAAAAAbHo/ds9DswoDlWo/s400/Logo%2Bdo%2BSite.png" group-title="Canais | ABERTO",CINEPIX
 https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1295959840.m3u8
@@ -1870,11 +1870,11 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1549591707.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uMdQYEe.png" group-title="Canais | ABERTO",TV Sonata 
 https://video01.kshost.com.br:4443/tiago2001/tiago2001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="Canais | ABERTO",Rede Meio Norte HD
-https://stream.amsolution.net.br:8443/live/60ce4e9b6adee/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="Canais | ABERTO",TV Jornal HD
+https://streaming.jornalmn.com.br/live/tvjornalmn.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="Canais | ABERTO",Rede Meio Norte FHD
-http://streaming.jornalmn.com.br/live/tvmn.m3u8
+https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OaLL6zj.png" group-title="Canais | ABERTO",TV Mais Brasil 
 https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
@@ -2096,43 +2096,43 @@ https://i.mjh.nz/PlutoTV/64b02be14ea480000831ec78-alt.m3u8?ManoTV
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | INTERNACIONAL",NBA 1
-https://hls.streambtw.com/live/stream_nba1.m3u8
+https://allfreeshoping.online/live/stream_nba1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | INTERNACIONAL",NBA 2
-https://hls.streambtw.com/live/stream_nba2.m3u8
+https://allfreeshoping.online/live/stream_nba2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | INTERNACIONAL",NBA 3
-https://hls.streambtw.com/live/stream_nba3.m3u8
+https://allfreeshoping.online/live/stream_nba3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | INTERNACIONAL",NBA 4
-https://hls.streambtw.com/live/stream_nba4.m3u8
+https://allfreeshoping.online/live/stream_nba4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | INTERNACIONAL",NBA 5
-https://hls.streambtw.com/live/stream_nba5.m3u8
+https://allfreeshoping.online/live/stream_nba5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | INTERNACIONAL",NBA 6
-https://hls.streambtw.com/live/stream_nba6.m3u8
+https://allfreeshoping.online/live/stream_nba6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | INTERNACIONAL",NBA 7
-https://hls.streambtw.com/live/stream_nba7.m3u8
+https://allfreeshoping.online/live/stream_nba7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | INTERNACIONAL",NBA 8
-https://hls.streambtw.com/live/stream_nba8.m3u8
+https://allfreeshoping.online/live/stream_nba8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | INTERNACIONAL",NBA 9
-https://hls.streambtw.com/live/stream_nba9.m3u8
+https://allfreeshoping.online/live/stream_nba9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | INTERNACIONAL",NBA 10
-https://hls.streambtw.com/live/stream_nba10.m3u8
+https://allfreeshoping.online/live/stream_nba10.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | INTERNACIONAL",NBA 11
-https://hls.streambtw.com/live/stream_nba11.m3u8
+https://allfreeshoping.online/live/stream_nba11.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | INTERNACIONAL",NBA 12
-https://hls.streambtw.com/live/stream_nba12.m3u8
+https://allfreeshoping.online/live/stream_nba12.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | INTERNACIONAL",NBA 13
-https://hls.streambtw.com/live/stream_nba13.m3u8
+https://allfreeshoping.online/live/stream_nba13.m3u8
 
 ############################################################################ Canais Live | YOUTUBE 
 
