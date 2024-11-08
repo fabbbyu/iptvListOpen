@@ -1,14 +1,17 @@
 {
     "infos": [
         {
+            "id": 1,    
             "title": "🟣 Canal não carrega:",
             "description": "Canais de TV via internet(TV IP) podem oscilar e apresentar instabilidade temporaria. Por isso contamos com várias opções do mesmo canal, para ter alternativas."
         },
         {
+            "id": 2,
             "title": "🟣 Atualização dos canais:",
             "description": "Com frequência atualizamos a lista de canais para mantelos funcionando. Dessa forma, em momentos você encontrará canais novos, podendo ocorrer também a remoção de algum canal."
         },
         {
+            "id": 3,
             "title": "💖 Ajude o APP a continuar grátis:",
             "description": "Caso sinta-se a vontade, faça uma doação de qualquer valor para ajudar o APP com os custos de operação, mantendo-o gratuito para sempre. Nossa chave PIX é: suporte.reacttvip@gmail.com"
         }
