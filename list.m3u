@@ -3,15 +3,10 @@
 ############################################################################ Canais | ABERTO
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP SD
-https://cdn-2.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
+https://cdn-3.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Canais | GLOBO",Globo SP HD
-https://cdn-3.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
-
-############################################################################ Canais | REALITY
-
-#EXTINF:-1 tvg-logo="https://imgur.com/uFhKk56.png" group-title="Canais | REALITY",A FAZENDA 16 HD
-https://cr7v.short.gy/25mensais/AF1/Whats7591634025.m3u8
+https://cdn-3.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
 
 ############################################################################ Canais | RECORD TV
 
@@ -40,6 +35,9 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8?ManoTV
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8?ManoTV
 
 ############################################################################ Canais | BAND TV
+
+#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Band - RBA TV (PA)
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?IMDSFULL
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND"  tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band RJ FHD
 http://170.80.69.8:8000/play/a0dl/index.m3u8
