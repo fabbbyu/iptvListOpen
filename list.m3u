@@ -118,15 +118,6 @@ https://tv02.zas.media:1936/futurotv21/futurotv21/chunklist_w309642670.m3u8?Mano
 #EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD 
 https://super-cdn.link/sportv/index.m3u8
 
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD [Alter]
-https://cr7v.short.gy/ManoT/Whats75991634025/1/Index.m3u8
-
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD [Alter]2
-https://cr7v.short.gy/ManoT/Whats75991634025/2/Index.m3u8
-
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV UHD
-https://anonmedia.foo/sportv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 HD
 https://super-cdn.link/sportv2/index.m3u8
 
@@ -149,65 +140,13 @@ https://super-cdn.link/espn4/index.m3u8
 
 ############################################################################ CANAIS ESPORTES
 
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports SD
-https://cdn-1.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports HD
-https://cdn-1.nxplay.com.br/BAND_SPORTS/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports FHD
 https://stream1.freetv.fun/band-sports-3.m3u8
-
-############################################################################ CANAIS LUTAS
-
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Canais | LUTAS",Combate HD
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1
-
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Canais | LUTAS",Combate FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/123
-
-#EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass HD
-http://78.159.104.203:2052/JgfgjjbcfyyDFD/678888yygfFFD/39
-
-#EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1121
 
 ############################################################################ CANAIS PREMIERE
 
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD
 https://super-cdn.link/premiereclubes/index.m3u8
-
-############################################################################ AO VIVO AGORA 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/KlMpCWS.png" group-title="ao vivo | FUTEBOL",Canal GOAT YT
-https://ythls.armelin.one/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV YT 
-https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV HD
-https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/6fU9ulW.png" group-title="ao vivo | FUTEBOL",Esportes Brasília 
-https://a.cdni.live/radioesporte/radioesporte/chunklist_w1002148111.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT
-https://cr7v.short.gy/Mano/testechamaWhats75991634025.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT 2
-https://cr7v.short.gy/mano2/testechamaWhats75991634025.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT 3
-https://cr7v.short.gy/mano3/testechamaWhats75991634025.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT 4
-https://cr7v.short.gy/mano4/testechamaWhats75991634025.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT 5
-https://cr7v.short.gy/mano5/testechamaWhats75991634025.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT 6
-https://cr7v.short.gy/mano6/testechamaWhats75991634025.m3u8
 
 ############################################################################ CANAIS DE NOTÍCIAS 
 
