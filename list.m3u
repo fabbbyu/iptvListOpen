@@ -16,34 +16,10 @@ https://stream1.freetv.fun/record-sp-2-1.m3u8
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV Conquista HD
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV Juara HD
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV Juina HD
-https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8?ManoTV
-
 ############################################################################ Canais | BAND TV
 
-#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Band - RBA TV (PA)
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?IMDSFULL
-
-#EXTINF:-1 tvg-id="BAND" tvg-name="BAND"  tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band RJ FHD
-http://170.80.69.8:8000/play/a0dl/index.m3u8
-
-#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band SP SD
-https://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8?ManoTV
-
-#EXTINF:-1tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band SP HD
-https://cdn-2.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
-
-#EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band HD
-https://stream1.freetv.fun/band-1.m3u8
-
-#EXTINF:-1 tvg-id="BAND" tvg-logo="https://i.imgur.com/yyFeDm7.png" group-title="Canais | BAND TV",Band Arapuan HD
+#EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band Arapuan HD
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="BAND" tvg-logo="https://i.imgur.com/oTkOmnH.png" group-title="Canais | BAND TV",Band TV - Vale do Uruará SD
-https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1873032931.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/vSKVrvH.png" group-title="Canais | BAND TV",NEW BRASIL HD
 https://cc-7pakstinpyajo.akamaized.net/playlist720lp.m3u8
