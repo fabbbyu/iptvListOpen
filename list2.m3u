@@ -14,28 +14,7 @@ https://super-cdn.link/globosp-tvdiario/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
 https://new.m3u8.one/globorj/index.m3u8
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",TV TEM Itapetininga
-https://super-cdn.link/globosp-tvtemitapetininga/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Brasília
-https://super-cdn.link/globodf-globobrasilia/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RS HD
-https://super-cdn.link/globors-rbstvportoalegre/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo NSC Florianoplis 
-https://super-cdn.link/globosc-nsctvflorianopolis/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MG HD²
-https://super-cdn.link/globomg-intertvdosvales/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo ES HD
-https://super-cdn.link/globoes-tvgazetavitoria/tracks-v1a1/mono.m3u8
-
 ############################################################################ Canais | RECORD TV
-
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP HD
-https://super-cdn.link/record/index.m3u8
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",Record SicTV (RO)
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
@@ -50,9 +29,6 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8?ManoTV
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8?ManoTV
 
 ############################################################################ Canais | BAND TV
-
-#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band SP HD
-https://super-cdn.link/band/index.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band Arapuan HD
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
