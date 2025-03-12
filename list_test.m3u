@@ -1,5 +1,7 @@
 #EXTM3U
 #PLAYLIST:Final playlist
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Canais | GLOBO",Globo BA HD
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2qWdToI.png" group-title="Canais | REALITY",SONY ONE SHARK TANK
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
