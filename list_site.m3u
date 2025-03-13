@@ -3581,8 +3581,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4947590
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4948418101147596fd6c5a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="622f6faf65be650007f57aab" tvg-logo="https://images.pluto.tv/channels/622f6faf65be650007f57aab/colorLogoPNG.png" group-title="Humor e pets em alemão",Hausmeister Krause | Pluto TV Alemanha
 #EXTGRP:Humor e pets em alemão
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/622f6faf65be650007f57aab/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f9847fd513250000728a9a5" group-title="Humor e pets em alemão",MTV Ridiculousness | Pluto TV Alemanha
 #EXTGRP:Humor e pets em alemão
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9847fd513250000728a9a5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="60c716084d842c00085f6e64" tvg-logo="https://images.pluto.tv/channels/60c716084d842c00085f6e64/colorLogoPNG.png" group-title="Humor e pets em alemão",South Park | Pluto TV Alemanha
