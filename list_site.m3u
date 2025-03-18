@@ -249,8 +249,6 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://imgur.com/bytVf9x.png" group-title="Canais | FILMES E SERIES",USA Network HD
 #EXTGRP:Canais | FILMES E SERIES
 https://lvstr.cfd/usa/index.m3u8
-#EXTINF:-1,h_84,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c66e37_a7fc789f6df244b09d8e33fcbb22b2bc~mv2.png" group-title="Canais | FILMES E SERIES",Tela Brasil TV
-https://stmv3.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/f35UF5q.png" group-title="Canais | FILMES E SERIES",MyTime Movies
 #EXTGRP:Canais | FILMES E SERIES
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8?ManoTV
