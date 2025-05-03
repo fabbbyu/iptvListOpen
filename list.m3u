@@ -41,8 +41,11 @@ https://cc-7pakstinpyajo.akamaized.net/playlist720lp.m3u8
 https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g47oQ4n.png" group-title="Canais | SBT",SBT HD
 #EXTGRP:Canais | SBT
-https://cc7d37a17d3f4d0c8c82f9778df832ca.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI_SIMULCAST_CTV/TLBkp.m3u8?ads.start=1
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="Canais | SBT",SBT Interior SP HD
+https://aovivo.maissbt.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/492f4cab-b380-4d48-b67e-2b3622e917a9/5.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/x6CNPWS.png" group-title="Canais | SBT",SBT Interior SP
+#EXTGRP:Canais | SBT
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/x6CNPWS.png" group-title="Canais | SBT",SBT Interior SP HD
 #EXTGRP:Canais | SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/F35mKJK.png" group-title="Canais | SBT",TV Difusora (SBT São Luís)
@@ -51,6 +54,9 @@ https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/F35mKJK.png" group-title="Canais | SBT",TV Difusora Leste
 #EXTGRP:Canais | SBT
 https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/F35mKJK.png" group-title="Canais | SBT",TV Difusora Sul
+#EXTGRP:Canais | SBT
+https://stream.amsolution.net.br:8443/live/66e04072024b3/index.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="Canais | SBT",TV Rio Parnaíba Maranhão
 #EXTGRP:Canais | SBT
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
@@ -84,6 +90,9 @@ https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!" tvg-logo="https://i.imgur.com/2vYqKX5.png" group-title="Canais | ABERTO",TV São Luís Maranhão
 #EXTGRP:Canais | ABERTO
 https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lm4HhaL.png" group-title="Canais | ABERTO",TV A Critica HD
+#EXTGRP:Canais | ABERTO
+https://tv03.zas.media:1936/tvcristalto/tvcristalto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lm4HhaL.png" group-title="Canais | ABERTO",BDCTV - TV A Critica
 #EXTGRP:Canais | ABERTO
 https://srv1.zcast.com.br/bdctv/bdctv/playlist.m3u8
@@ -168,9 +177,6 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8?ManoTV
 #EXTINF:-1 tvg-id="TV Câmera" tvg-name="TV Câmera" tvg-logo="https://i.imgur.com/duy6waL.png" group-title="Canais | NOTÍCIAS",TV Câmera HD²
 #EXTGRP:Canais | NOTÍCIAS
 https://stream3.camara.gov.br/tv2/manifest.m3u8
-#EXTINF:-1 tvg-id="TV SENADO" tvg-name="TV SENADO" tvg-logo="https://i.imgur.com/duy6waL.png" group-title="Canais | NOTÍCIAS",TV Senado HD
-#EXTGRP:Canais | NOTÍCIAS
-https://stream1.freetv.fun/tv-senado-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9KwUxmX.png" group-title="Canais | NOTÍCIAS",Canal GOV
 #EXTGRP:Canais | NOTÍCIAS
 https://canalgov-stream.ebc.com.br/index.m3u8
@@ -231,12 +237,6 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/770kcRF.png" group-title="Canais | NOVELAS",Televisa Telenovelas | Itália
 #EXTGRP:Canais | NOVELAS
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="Canais | NOVELAS",Novelas Turcas
-#EXTGRP:Canais | NOVELAS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GrtNJki.png" group-title="Canais | NOVELAS",Canela Telenovelas
-#EXTGRP:Canais | NOVELAS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 #EXTINF:-1 tvg-logo="https://imgur.com/7MCMU3j.png" group-title="Canais | NOVELAS",Novelissima
 #EXTGRP:Canais | NOVELAS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
@@ -248,6 +248,11 @@ https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2qWdToI.png" group-title="Canais | REALITY",SONY ONE SHARK TANK
 #EXTGRP:Canais | REALITY
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES",A&E HD
+#EXTGRP:Canais | FILMES E SERIES
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
+#EXTINF:-1,h_84,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c66e37_a7fc789f6df244b09d8e33fcbb22b2bc~mv2.png" group-title="Canais | FILMES E SERIES",Tela Brasil TV
 https://stmv3.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/f35UF5q.png" group-title="Canais | FILMES E SERIES",MyTime Movies
 #EXTGRP:Canais | FILMES E SERIES
@@ -345,6 +350,9 @@ https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BmmsPO8.png" group-title="Canais | INFANTIL",TVZYN
 #EXTGRP:Canais | INFANTIL
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NQG19uf.png" group-title="Canais | INFANTIL",DCPC Infantil
+#EXTGRP:Canais | INFANTIL
+https://cdn-1.nxplay.com.br/dcpc/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G5SWqHS.png" group-title="Canais | MÚSICA",TOP TV FHD
 #EXTGRP:Canais | MÚSICA
 https://isaocorp.cloudecast.com/toptv/index.m3u8?ManoTV
@@ -432,15 +440,15 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_sl
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OP1rFwr.png" group-title="Canais | ABERTO",TV Paraná Turismo
 #EXTGRP:Canais | ABERTO
 https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0Hbt4qg.png" group-title="Canais | ABERTO",TV Candidés
-#EXTGRP:Canais | ABERTO
-https://cdn.live.br1.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nA0cWeE.png" group-title="Canais | ABERTO",TV RBC
 #EXTGRP:Canais | ABERTO
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IAQIkuQ.png" group-title="Canais | ABERTO",BS TV
 #EXTGRP:Canais | ABERTO
 https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist_w1014792137.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/LrTGoQn.png" group-title="Canais | ABERTO",TV CLASSICOS
+#EXTGRP:Canais | ABERTO
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ev3SsBX.png" group-title="Canais | ABERTO",AmazonSat
 #EXTGRP:Canais | ABERTO
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?ManoTV
@@ -489,6 +497,9 @@ https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xrbBNPa.png" group-title="Canais | ABERTO",TV Aracati
 #EXTGRP:Canais | ABERTO
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8?ManoTV
+#EXTINF:-1 tvg-logo="https://imgur.com/V3haAYn.png" group-title="Canais | ABERTO",Sou TV.
+#EXTGRP:Canais | ABERTO
+https://vdo1.audiostream.com.br:3010/live/soutvlive.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XqAcHMg.png" group-title="Canais | ABERTO",TV Marajoara
 #EXTGRP:Canais | ABERTO
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
@@ -516,6 +527,9 @@ https://aovivo.equipea.com.br:5443/aovivort/streams/RmvrJTkqJYoGD6gD172530908281
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NY4GvIC.png" group-title="Canais | ABERTO",Agro Plus
 #EXTGRP:Canais | ABERTO
 https://video09.logicahost.com.br/agroplus/agroplus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w9R9IIX.png" group-title="Canais | ABERTO",Canal Rural
+#EXTGRP:Canais | ABERTO
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NY4GvIC.png" group-title="Canais | ABERTO",AgroMais HD
 #EXTGRP:Canais | ABERTO
 https://d1r94zrwa3gnlo.cloudfront.net/livestore105/stream/hls/291/291.m3u8
@@ -576,9 +590,6 @@ https://stmv1.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.40graustv.com.br/wp-content/uploads/2017/02/logo-circular.png" group-title="Canais | ABERTO",40 GRAUS TV
 #EXTGRP:Canais | ABERTO
 https://acesso.ecast.site:3125/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/3YP7dFy.png" group-title="Canais | ABERTO",TV GAZETA NORTE MINEIRA
-#EXTGRP:Canais | ABERTO
-https://59e4b6c1beddc.streamlock.net:443/tvgazeta/tvgazeta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="Canais | ABERTO",CLASSIQUE TV SERIES
 #EXTGRP:Canais | ABERTO
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
@@ -633,6 +644,9 @@ https://video01.kshost.com.br:4443/inside2133/inside2133/chunklist_w384766910.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IfPT4sF.png" group-title="Canais | ABERTO",TV Vitória PE
 #EXTGRP:Canais | ABERTO
 https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tLkF2BE.png" group-title="Canais | ABERTO",TV SIM São Mateus
+#EXTGRP:Canais | ABERTO
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tLkF2BE.png" group-title="Canais | ABERTO",TV SIM Linhares
 #EXTGRP:Canais | ABERTO
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
@@ -792,9 +806,6 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Canais | INTERNACIONAL",24 horas internacional
 #EXTGRP:Canais | INTERNACIONAL
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021436743554_65.png" group-title="Canais | INTERNACIONAL",Eleven sports 1
-#EXTGRP:Canais | INTERNACIONAL
-https://stream1.freetv.fun/eleven-sports-1-1.ctv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jhFxUc1.png" group-title="Canais | INTERNACIONAL",TV5 Mond
 #EXTGRP:Canais | INTERNACIONAL
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
@@ -990,6 +1001,9 @@ https://video01.soultv.com.br/desaparecidosrs/desaparecidosrs/playlist.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Brasil: notícias",Record News | RunTime Brasil
 #EXTGRP:Brasil: notícias
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+#EXTINF:-1 tvg-id="Assembleia.go" tvg-logo="https://i.imgur.com/UyRDotD.png" group-title="Brasil: notícias",TV Alego | GO Brasil
+#EXTGRP:Brasil: notícias
+https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/master.m3u8
 #EXTINF:-1 tvg-id="TVALMG.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/SyzEjqx.png" group-title="Brasil: notícias",TV ALMG | MG Brasil
 #EXTGRP:Brasil: notícias
 https://streaming.almg.gov.br/live/tvalmg.m3u8
@@ -1014,9 +1028,6 @@ https://5b7f3c45ab7c2.streamlock.net/bandnews/bandnews/playlist.m3u8
 #EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/rXEBYmC.png" group-title="Brasil: variedades",AWTV | Brasil
 #EXTGRP:Brasil: variedades
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
-#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="Brasil: variedades",Band | RBA TV | PA Brasil
-#EXTGRP:Brasil: variedades
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/blitstv_logo_reduzido_kJFHdGG.png" group-title="Brasil: variedades",Blits TV | Brasil
 #EXTGRP:Brasil: variedades
 https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
@@ -1098,12 +1109,6 @@ https://tbc.zoeweb.tv/tbc/tbc/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6aTV1bY.png" group-title="Brasil: variedades",TV CNB
 #EXTGRP:Brasil: variedades
 https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/PMSiLyy.png" group-title="Brasil: variedades",TV Galega | Blumenau SC Brasil
-#EXTGRP:Brasil: variedades
-https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-#EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/PMSiLyy.png" group-title="Brasil: variedades",TV Galega | Blumenau SC Brasil - link 2
-#EXTGRP:Brasil: variedades
-https://cdn.live.br1.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LYKZr34.png" group-title="Brasil: variedades",TV Gramado | RS Brasil
 #EXTGRP:Brasil: variedades
 https://isaocorp.cloudecast.com/tvgramado/index.m3u8
@@ -1119,6 +1124,9 @@ https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMAX.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="Brasil: variedades",TV MAX Rio | Brasil
 #EXTGRP:Brasil: variedades
 https://5cf4a2c2512a2.streamlock.net:443/tvmax/tvmax/playlist.m3u8
+#EXTINF:-1 tvg-id="Tvmetropole.br" tvg-logo="https://i.imgur.com/EhJNGIy.png" group-title="Brasil: variedades",TV Metrópole | Caucaia CE Brasil
+#EXTGRP:Brasil: variedades
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1 tvg-id="Tvmon.br" tvg-logo="https://i.imgur.com/wPhNMMS.png" group-title="Brasil: variedades",TV Mon | Montenegro RS Brasil
 #EXTGRP:Brasil: variedades
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
@@ -1188,30 +1196,12 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="dtv_EPGYoung Hollywood" tvg-logo="https://i.imgur.com/9dp92Cf.png" group-title="Celebridades e cultura pop em inglês",Young Hollywood | Distro TV
 #EXTGRP:Celebridades e cultura pop em inglês
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/young-hollywood/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m9BKIY6.png" group-title="Cinema em espanhol",Acción Mexicana | Canela TV
-#EXTGRP:Cinema em espanhol
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m9BKIY6.png" group-title="Cinema em espanhol",Acción Mexicana | Canela TV 2
-#EXTGRP:Cinema em espanhol
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1736
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vjqgSsY.png" group-title="Cinema em espanhol",Canela Cinema
-#EXTGRP:Cinema em espanhol
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vjqgSsY.png" group-title="Cinema em espanhol",Canela Clásicos
 #EXTGRP:Cinema em espanhol
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vjqgSsY.png" group-title="Cinema em espanhol",Canela Clásicos 3
 #EXTGRP:Cinema em espanhol
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1734
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DRCCzun.png" group-title="Cinema em espanhol",Canela Hollywood
-#EXTGRP:Cinema em espanhol
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=868
-#EXTINF:-1 tvg-logo="https://i.imgur.com/acKgmyh.png" group-title="Cinema em espanhol",Cine Romántico | Canela TV
-#EXTGRP:Cinema em espanhol
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
-#EXTINF:-1 tvg-logo="https://i.imgur.com/acKgmyh.png" group-title="Cinema em espanhol",Cine Romántico | Canela TV 2
-#EXTGRP:Cinema em espanhol
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1735
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fe3c7159-2d42-47c3-a112-2c0cd847e4ef/horrorfy_logo.png" group-title="Cinema em espanhol",Horrorfy
 #EXTGRP:Cinema em espanhol
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-To
@@ -1404,6 +1394,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=47
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-logo="https://i.imgur.com/F09qSdk.png" group-title="Culinária em inglês",Cooking Panda | Distro TV
 #EXTGRP:Culinária em inglês
 https://api-ott-cookingpanda.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=901&partner=distro&device_id=af56109e-ef74-4f31-b201-55dcce3b60d1&device_model=Web&device_width=530&device_height=298&us_privacy=1&gdpr=0&device_language=en&is_lat=0
+#EXTINF:-1 tvg-id="USAK3508724A" tvg-logo="https://i.imgur.com/btOMdTq.png" group-title="Culinária em inglês",Gusto TV | Local Now
+#EXTGRP:Culinária em inglês
+https://gusto-localnow.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="USBA3000042O6" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/50/USBA3000042O6_20210525T051452.png" group-title="Culinária em inglês",Kitchen Nightmares | EUA
 #EXTGRP:Culinária em inglês
 https://d12hafsmzbqmzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/KitchenNightmare2-prod/playlist.m3u8
@@ -1431,9 +1424,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZPA2yTM.png" group-title="Documentários em inglês",Guinness World Records
 #EXTGRP:Documentários em inglês
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=567
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KkWjqsW.png" group-title="Documentários em inglês",Journy | Roku
-#EXTGRP:Documentários em inglês
-https://linear-252.frequency.stream/252/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GBBA15000044L" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/55/GBBA15000044L_20210609T004711.png" group-title="Documentários em inglês",Monarda Arts | Reino Unido
 #EXTGRP:Documentários em inglês
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/6951065f-7cd4-11eb-908d-533d39655269/0/master.m3u8
@@ -1476,9 +1466,6 @@ https://lds-wonder-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d9
 #EXTINF:-1 tvg-id="Xplore.cy" tvg-logo="https://i.imgur.com/ErFj6rR.png" group-title="Documentários em inglês",Xplore | legenda em grego | Chipre
 #EXTGRP:Documentários em inglês
 https://web.onair-radio.eu/explorecy/explorecy/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AfUvEG1.png" group-title="Esportes em espanhol",Canela Sports
-#EXTGRP:Esportes em espanhol
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1kXmNJ2.png" group-title="Esportes em espanhol",El Pinguino Retransmisión | Chile
 #EXTGRP:Esportes em espanhol
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1650
@@ -1521,6 +1508,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa" tvg-logo="https://i.imgur.com/oqT92nF.png" group-title="Esportes em inglês",FTF Sports | EUA 2
 #EXTGRP:Esportes em inglês
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=843
+#EXTINF:-1 tvg-id="ATBA3300030EZ" tvg-logo="https://i.imgur.com/iVRlKNH.png" group-title="Esportes em inglês",Horse and Country | Austrália
+#EXTGRP:Esportes em inglês
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GBBA2200008YU" tvg-logo="https://i.imgur.com/iVRlKNH.png" group-title="Esportes em inglês",Horse and Country | Reino Unido
 #EXTGRP:Esportes em inglês
 https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
@@ -1713,12 +1703,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1849
 #EXTINF:-1 tvg-id="CAAJ3400006QE" tvg-logo="https://i.imgur.com/SvaTb8G.png" group-title="Humor em inglês",The Red Green Channel | Samsung
 #EXTGRP:Humor em inglês
 https://d5d8af44e2824000ad28245f2de6dd04.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-ca_TheRedGreenChannel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g3Jreh3.png" group-title="Infantis em espanhol",Canela Kids
-#EXTGRP:Infantis em espanhol
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g3Jreh3.png" group-title="Infantis em espanhol",Canela Kids 2
-#EXTGRP:Infantis em espanhol
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1745
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lqgcz0W.png" group-title="Infantis em espanhol",Kids TV Español Latino | Distro
 #EXTGRP:Infantis em espanhol
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_es.m3u8
@@ -1785,9 +1769,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=294
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9BnMuCk.png" group-title="Infantis em inglês",Gross Out TV
 #EXTGRP:Infantis em inglês
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=41
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nZwgvCt.png" group-title="Infantis em inglês",Kartoon Channel! 5
-#EXTGRP:Infantis em inglês
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nZwgvCt.png" group-title="Infantis em inglês",Kartoon Channel! 6
 #EXTGRP:Infantis em inglês
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=696
@@ -2079,6 +2060,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=887
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q50nFKz.png" group-title="Música",Nocturnal
 #EXTGRP:Música
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1142
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-jazz&beyond_channel_logo_dark.png" group-title="Música",QwestTV Jazz & Beyond | LG
+#EXTGRP:Música
+https://qwest-jazz-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-logo="https://i.imgur.com/8HCjnPt.png" group-title="Música",Stingray Classic Rock
 #EXTGRP:Música
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1389
@@ -2265,9 +2249,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=710
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música: karaokê",Party Tyme Karaoke | inglês 17
 #EXTGRP:Música: karaokê
 https://ov.ottera.tv/live/master.m3u8?channel=ssnd_pt_us
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6vtOewR.png" group-title="Maratona de episódios em espanhol",El Talismán
-#EXTGRP:Maratona de episódios em espanhol
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141125" tvg-logo="http://images.pluto.tv/channels/5ef396d1be50a3000722808b/colorLogoPNG.png" group-title="Maratona de episódios em inglês",The Carol Burnett Show | Plex EUA
 #EXTGRP:Maratona de episódios em inglês
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-carolburnettshow-plex/playlist.m3u8
@@ -2367,36 +2348,24 @@ https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_defi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="Notícias em neerlandês (holandês)",Focus en WTV | Bélgica
 #EXTGRP:Notícias em neerlandês (holandês)
 https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/ARXpX7.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ABCNews.al" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQppoJvg5Inz_5KVl8gzhD8ydrZqta2qffqDLgaag=s400-c-k-c0x00ffffff-no-rj" group-title="Notícias em outros idiomas",ABC News | Albânia
-#EXTGRP:Notícias em outros idiomas
-https://tv2.abcnews.al/live/abcnews/chunks.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraBalkans.qa" tvg-logo="https://i.imgur.com/zHNwsNZ.png" group-title="Notícias em outros idiomas",Al Jazeera Balkas em croata
 #EXTGRP:Notícias em outros idiomas
 https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://i.imgur.com/u9vsQRi.png" group-title="Notícias em outros idiomas",CNN Indonésia
+#EXTINF:-1 tvg-id="Antena3CNN.ro" tvg-logo="https://i.imgur.com/JtZ5nXn.png" group-title="Notícias em outros idiomas",Antena 3 CNN | Romênia
 #EXTGRP:Notícias em outros idiomas
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+https://live3vox.antenaplay.ro/a3free/a3free.m3u8
+#EXTINF:-1 tvg-id="BeritaSatuHD.id" tvg-logo="https://i.imgur.com/WlgyKOR.png" group-title="Notícias em outros idiomas",Berita Satu | Indonésia
+#EXTGRP:Notícias em outros idiomas
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 tvg-id="IranIntl.uk" tvg-language="Persian" tvg-logo="https://i.imgur.com/oeiaea6.png" group-title="Notícias em outros idiomas",Iran International | Irã
 #EXTGRP:Notícias em outros idiomas
 https://live.playstop.me/LS-63503-4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oyaqyxB.png" group-title="Novelas e séries em espanhol",Canela Telenovelas
-#EXTGRP:Novelas e séries em espanhol
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oyaqyxB.png" group-title="Novelas e séries em espanhol",Canela Telenovelas ~ link 2
-#EXTGRP:Novelas e séries em espanhol
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1738
-#EXTINF:-1 tvg-id="Novelas Turcas" tvg-logo="https://i.imgur.com/XBjJMCI.png" group-title="Novelas e séries em espanhol",Novelas Turcas
-#EXTGRP:Novelas e séries em espanhol
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 #EXTINF:-1 tvg-id="USAJ3000002OC" tvg-logo="https://i.imgur.com/mqEHDE1.png" group-title="Novelas e séries em espanhol",Sony Canal Novelas | LG
 #EXTGRP:Novelas e séries em espanhol
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="USAJ2200021NW" tvg-logo="https://i.imgur.com/Zbo724r.png" group-title="Novelas e séries em inglês",Brat TV | EUA
 #EXTGRP:Novelas e séries em inglês
 https://brat-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f79" tvg-logo="https://i.imgur.com/YP1ysr7.png" group-title="Novelas e séries em inglês",ConTV | EUA
-#EXTGRP:Novelas e séries em inglês
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170d61b898490041b49360" tvg-logo="https://i.imgur.com/ejyvmON.png" group-title="Novelas e séries em inglês",Electric Now | EUA 2
 #EXTGRP:Novelas e séries em inglês
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=53
@@ -2502,6 +2471,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1457
 #EXTINF:-1 tvg-id="USAJ3504708A" tvg-logo="https://i.imgur.com/ruaark2.png" group-title="Reality shows em inglês",Danger TV | TCL
 #EXTGRP:Reality shows em inglês
 https://dangertv-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="INBA49000291X" tvg-logo="https://i.imgur.com/QxLgGDB.png?1" group-title="Reality shows em inglês",Don't Tell The Bride | Pluto TV Reino Unido
+#EXTGRP:Reality shows em inglês
+https://lds-donttellbride-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gzVR6uv.png" group-title="Reality shows em inglês",Fun Roads TV
 #EXTGRP:Reality shows em inglês
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=978
@@ -2577,6 +2549,9 @@ https://chibrics.mediacdn.ru/cdn/brics/chinese/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QVwkACK.png" group-title="Variedades em coreano",Arirang World TV | inglês e coreano
 #EXTGRP:Variedades em coreano
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OEVQoFr.png" group-title="Variedades em coreano",Buddhist True Network BTN | Coreia do Sul
+#EXTGRP:Variedades em coreano
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=648
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JVBxUaB.png" group-title="Variedades em coreano",Documentários | Coreia do Sul
 #EXTGRP:Variedades em coreano
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
@@ -2763,9 +2738,6 @@ https://aweencore-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="37eb732888614810b512fdd82604244e" tvg-logo="https://i.imgur.com/0XsYNaC.png" group-title="Variedades em inglês",Charge! | EUA
 #EXTGRP:Variedades em inglês
 https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1 tvg-id="USBA300035FV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/300px-Circle_Network_logo.svg.png" group-title="Variedades em inglês",Circle | EUA
-#EXTGRP:Variedades em inglês
-https://circle-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6aTV1bY.png" group-title="Variedades em inglês",CNB American
 #EXTGRP:Variedades em inglês
 https://5cf4a2c2512a2.streamlock.net/tvcnbamerican/tvcnbamerican/chunklist.m3u8
